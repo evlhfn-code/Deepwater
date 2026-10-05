@@ -1,0 +1,6 @@
+.DS_Store
+*.rbxl
+*.rbxlx
+*.rblx
+node_modules/
+.vscode/
